@@ -1,5 +1,7 @@
 Curso: Arquitectura de Computadores II
+
 Asunto: Instrucciones para ejecutar los ejercicios prácticos del Taller 4
+
 Ambiente de trabajo: Linux en placa Jetson Nano Developer Kit
 
 Nota:
